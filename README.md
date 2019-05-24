@@ -1,0 +1,2 @@
+# divcount
+Counting divisible number
